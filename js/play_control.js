@@ -36,11 +36,16 @@ var info=document.getElementById('info');
 var player=document.getElementById('audio');
 var visualizer=new Visualizer(player,ctx);
 
-function switch_music(name)
+player.addEventListener('canplay',function()
 {
-    var base='assets/audio/';
-    player.src=base+name;
-    info.innerText=name;
+    info.innerText=info.innerText.split('(正在加载，请稍候...)')[0];
+});
+
+var base='assets/audio/';
+function switch_music(data)
+{
+    player.src=base+data[1];
+    info.innerText=data[0]+'(正在加载，请稍候...)';
     player.play();
 }
 
