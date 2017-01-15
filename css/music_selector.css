@@ -1,0 +1,76 @@
+#music_selector
+{
+    z-index:2;
+    position:absolute;
+    width:30%;
+    min-width: 300px;
+    max-width: 400px;
+    overflow-x:hidden;
+    height:100%;
+    left:0;
+    top:0;
+    opacity:0;
+    transition:all .3s ease;
+    margin:0;
+    padding: 0 0 0 0;
+    /*border-right:2px solid white;*/
+}
+#music_selector:hover
+{
+    opacity:1;
+}
+#music_selector ul
+{
+    padding:0;
+    margin:0;
+    width:100%;
+    /*border-right:2px solid white;*/
+}
+#music_selector li
+{
+    text-decoration: none;
+    list-style: none;
+    cursor: pointer;
+    width:100%;
+    padding:10px;
+    margin:0;
+}
+#music_selector li:hover
+{
+    background-color: white;
+    color:black;
+}
+#music_selector::-webkit-scrollbar
+{
+    width:10px;
+    background-color: white;
+    border-radius:10px;
+}
+#music_selector::-webkit-scrollbar-button
+{
+    /*width:0;*/
+    /*height:0;*/
+}
+#music_selector::-webkit-scrollbar-thumb
+{
+    border-radius:12px;
+    background-color: #da0817;
+}
+#music_selector::-webkit-scrollbar-track
+{
+    /*width:14px;*/
+    /*background-color: white;*/
+}
+#music_selector::-webkit-scrollbar-track-piece
+{
+    /*width:12px;*/
+    /*background-color: white;*/
+}
+#music_selector::-webkit-scrollbar-corner
+{
+
+}
+#music_selector::-webkit-resizer
+{
+
+}
