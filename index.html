@@ -18,7 +18,8 @@
 <div id="control_panel">
     <h2 id="info"></h2>
     <h4>点击空白处暂停播放或继续播放</h4>
-    <audio id="audio" src=""></audio>
+    <!-- 这个 crossOrigin="anonymous" 必须设置，要不然会告诉你 MediaElementAudioSource outputs zeroes due to CORS access restrictions -->
+    <audio id="audio" src="" crossOrigin="anonymous"></audio>
 </div>
 <canvas id="canvas"></canvas>
 

@@ -41,7 +41,7 @@ player.addEventListener('canplay',function()
     info.innerText=info.innerText.split('(正在加载，请稍候...)')[0];
 });
 
-var base='assets/audio/';
+var base='//audio.twesix.cn/music/';
 function switch_music(data)
 {
     player.src=base+data[1];
@@ -49,4 +49,4 @@ function switch_music(data)
     player.play();
 }
 
-switch_music(music_list[0]);
+switch_music(music_list[14]);
