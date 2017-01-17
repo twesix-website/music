@@ -49,4 +49,4 @@ function switch_music(data)
     player.play();
 }
 
-switch_music(music_list[14]);
+switch_music(music_list[start_from]);

@@ -1,6 +1,12 @@
 var music_list=[];
+var start_from=0;
 
 // 华语歌曲
+music_list.push(['莫艳琳 - 爱一点','hua yu ge qu/ai yi dian.mp3']);
+music_list.push(['小沈阳,高进 - 我的好兄弟','hua yu ge qu/wo de hao xiong di.mp3']);
+music_list.push(['庞龙 - 兄弟抱一下','hua yu ge qu/xiong di bao yi xia.mp3']);
+music_list.push(['刘惜君 - 我很快乐','hua yu ge qu/wo hen kuai le.mp3']);
+music_list.push(['四个女生 - 心愿','hua yu ge qu/xin yuan.mp3']);
 music_list.push(['阿兰 - 栀子花开(中文版)','hua yu ge qu/zhi zi hua kai.mp3']);
 music_list.push(['周迅 - 飘摇','hua yu ge qu/piao yao.mp3']);
 music_list.push(['张靓颖 - 如果这就是爱情','hua yu ge qu/ru guo zhe jiu shi ai qing.mp3']);
