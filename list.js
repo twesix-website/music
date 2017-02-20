@@ -2,6 +2,19 @@ var music_list=[];
 var start_from=0;
 
 // 华语歌曲
+music_list.push(['李玉刚 - 刚好遇见你','hua yu ge qu/gang hao yu jian ni.mp3']);
+music_list.push(['元若蓝 - 半情歌','hua yu ge qu/ban qing ge.mp3']);
+music_list.push(['李玉刚 - 雨花石','hua yu ge qu/yu hua shi.mp3']);
+music_list.push(['誓言 - 求佛','hua yu ge qu/qiu fo.mp3']);
+music_list.push(['周二珂 - 告白气球','hua yu ge qu/gao bai qi qiu.mp3']);
+music_list.push(['刘昊霖 - 儿时','hua yu ge qu/er shi.mp3']);
+music_list.push(['斯琴高丽 - 斯琴高丽的伤心','hua yu ge qu/si qin gao li de shang xin.mp3']);
+music_list.push(['索朗扎西 - 姑娘我爱你','hua yu ge qu/gu niang wo ai ni.mp3']);
+music_list.push(['金南玲 - 逆流成河','hua yu ge qu/ni liu cheng he.mp3']);
+music_list.push(['戴荃 - 悟空','hua yu ge qu/wu kong.mp3']);
+music_list.push(['老狼,王婧 - 想把我唱给你听','hua yu ge qu/xiang ba wo chang gei ni ting.mp3']);
+music_list.push(['王铮亮 - 时间都去哪儿了','hua yu ge qu/shi jian dou qu na le.mp3']);
+music_list.push(['小沈阳,高进 - 男人歌','hua yu ge qu/nan ren ge.mp3']);
 music_list.push(['莫艳琳 - 爱一点','hua yu ge qu/ai yi dian.mp3']);
 music_list.push(['小沈阳,高进 - 我的好兄弟','hua yu ge qu/wo de hao xiong di.mp3']);
 music_list.push(['庞龙 - 兄弟抱一下','hua yu ge qu/xiong di bao yi xia.mp3']);
@@ -31,6 +44,9 @@ music_list.push(['Sara Nusara Poongprasert - 即使知道要见面','tai yu ge q
 music_list.push(['泰仁 - 那男人的谎言','han yu ge qu/na nan ren de huang yan.mp3']);
 
 // 英语歌曲
+music_list.push(['Sarah Connor,Natural - Just One Last Dance','ying yu ge qu/Sarah Connor,Natural - Just One Last Dance.mp3']);
+music_list.push(['Elize - Sexual Healing','ying yu ge qu/Elize - Sexual Healing.mp3']);
+music_list.push(['Dia Frampton - Walk Away','ying yu ge qu/Dia Frampton - Walk Away.mp3']);
 music_list.push(['Nana - Lonely','ying yu ge qu/Nana - Lonely.mp3']);
 music_list.push(['Ann Winsborn - La La Love On My Mind','ying yu ge qu/Ann Winsborn - La La Love On My Mind.mp3']);
 music_list.push(['圣女合唱团 - Stop! Stop! Stop!','ying yu ge qu/Stop! Stop! Stop!.mp3']);
