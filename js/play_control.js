@@ -9,13 +9,13 @@ var gap_width=2;
 var meter_num=parseInt(c_width)/(meter_width+gap_width);
 var cap_height=2;
 var cap_fall_speed=3;
-var cap_style='#fff';
+var cap_style='#ff2f3f';
 var cap_positions=[];
 
 var gradient=ctx.createLinearGradient(0,0,0,1600);
-gradient.addColorStop(1,'#0f0');
-gradient.addColorStop(0.5,'#ff0');
-gradient.addColorStop(0,'#f00');
+gradient.addColorStop(1,'#22ff7d');
+gradient.addColorStop(0.5,'#55caff');
+gradient.addColorStop(0,'#a84cff');
 
 var control_panel=document.getElementById('control_panel');
 control_panel.onclick=function(e)
