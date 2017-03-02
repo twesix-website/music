@@ -2,6 +2,7 @@ var music_list=[];
 var start_from=0;
 
 // 华语歌曲
+music_list.push(['陈一发儿 - 童话镇','hua yu ge qu/tong hua zhen.mp3']);
 music_list.push(['李玉刚 - 刚好遇见你','hua yu ge qu/gang hao yu jian ni.mp3']);
 music_list.push(['元若蓝 - 半情歌','hua yu ge qu/ban qing ge.mp3']);
 music_list.push(['李玉刚 - 雨花石','hua yu ge qu/yu hua shi.mp3']);
@@ -37,7 +38,11 @@ music_list.push(['杨宗纬 - 一次就好','hua yu ge qu/yi ci jiu hao.mp3']);
 music_list.push(['江珊 - 梦里水乡','hua yu ge qu/meng li shui xiang.mp3']);
 music_list.push(['孙燕姿 - 遇见','hua yu ge qu/yu jian.mp3']);
 
-//泰语歌曲
+// Two Steps From Hell
+music_list.push(['Two Steps From Hell - Victory','Two Steps From Hell/Two Steps From Hell - Victory.mp3']);
+music_list.push(['Two Steps From Hell - Star Sky - Instrumental','Two Steps From Hell/Two Steps From Hell - Star Sky - Instrumental.mp3']);
+
+// 泰语歌曲
 music_list.push(['Sara Nusara Poongprasert - 即使知道要见面','tai yu ge qu/ji shi zhi dao yao jian mian.mp3']);
 
 // 韩语歌曲
@@ -57,11 +62,13 @@ music_list.push(['M2M - Pretty Boy','ying yu ge qu/M2M - Pretty Boy.mp3']);
 music_list.push(['Deutschland sucht den Superstar,Various Artists - Cry On My Shoulder','ying yu ge qu/Deutschland sucht den Superstar,Various Artists - Cry On My Shoulder.mp3']);
 
 // 振奋人心
+music_list.push(['Thomas Bergersen - Empire of Angels','zhen fen ren xin/Thomas Bergersen - Empire of Angels.mp3']);
+music_list.push(['Dreamtale - Intro： The Dawn','zhen fen ren xin/Dreamtale - Intro： The Dawn.mp3']);
+music_list.push(['Ramin Djawadi - Pacific Rim','zhen fen ren xin/Ramin Djawadi - Pacific Rim.mp3']);
 music_list.push(['Audio Machine - Breath and Life','zhen fen ren xin/Audio Machine - Breath and Life.mp3']);
 music_list.push(['Era - The Mass','zhen fen ren xin/Era - The Mass.mp3']);
 music_list.push(['Immediate Music - Tales of the Electric Romeo','zhen fen ren xin/Immediate Music - Tales of the Electric Romeo.mp3']);
 music_list.push(['Mark Petrie - Go Time','zhen fen ren xin/Mark Petrie - Go Time.mp3']);
-music_list.push(['Two Steps From Hell - Victory','zhen fen ren xin/Two Steps From Hell - Victory.mp3']);
 
 // 纯音乐
 music_list.push(['羽肿 - 花火が瞬く夜に','pure/hua huo shun ye.mp3']);
