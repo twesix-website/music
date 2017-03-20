@@ -4,10 +4,20 @@ var start_from=0;
 // 华语歌曲
 music_list.push(['陈一发儿 - 童话镇','hua yu ge qu/tong hua zhen.mp3']);
 music_list.push(['李玉刚 - 刚好遇见你','hua yu ge qu/gang hao yu jian ni.mp3']);
-music_list.push(['元若蓝 - 半情歌','hua yu ge qu/ban qing ge.mp3']);
+music_list.push(['周二珂 - 告白气球','hua yu ge qu/gao bai qi qiu.mp3']);
+music_list.push(['庄心妍 - 再见只是陌生人','hua yu ge qu/zai jian zi shi mo sheng ren.mp3']);
+music_list.push(['第一次爱的人-王心凌','hua yu ge qu/di yi ci ai de ren.mp3']);
+music_list.push(['阿桑 - 一直很安静','hua yu ge qu/yi zhi hen an jing.mp3']);
+music_list.push(['程响 - 不再联系','hua yu ge qu/bu zai lian xi.mp3']);
+music_list.push(['香香 - 老鼠爱大米','hua yu ge qu/lao shu ai da mi.mp3']);
+music_list.push(['萧风 - 贝多芬的悲伤','hua yu ge qu/bei duo fen de bei shang.mp3']);
+music_list.push(['S.H.E+-+波斯猫','hua yu ge qu/bo shi mao.mp3']);
+music_list.push(['林俊杰 - 曹操','hua yu ge qu/cao cao.mp3']);
+music_list.push(['周杰伦 - 青花瓷','hua yu ge qu/qin hua ci.mp3']);
+music_list.push(['魏新雨 - 恋人心','hua yu ge qu/lian ren xin.mp3']);
+music_list.push(['郑源 - 当我孤单的时候还可以抱着你','hua yu ge qu/dang wo gu dan de shi hou hai ke yi bao zhe ni.mp3']);
 music_list.push(['李玉刚 - 雨花石','hua yu ge qu/yu hua shi.mp3']);
 music_list.push(['誓言 - 求佛','hua yu ge qu/qiu fo.mp3']);
-music_list.push(['周二珂 - 告白气球','hua yu ge qu/gao bai qi qiu.mp3']);
 music_list.push(['刘昊霖 - 儿时','hua yu ge qu/er shi.mp3']);
 music_list.push(['斯琴高丽 - 斯琴高丽的伤心','hua yu ge qu/si qin gao li de shang xin.mp3']);
 music_list.push(['索朗扎西 - 姑娘我爱你','hua yu ge qu/gu niang wo ai ni.mp3']);
@@ -49,7 +59,14 @@ music_list.push(['Sara Nusara Poongprasert - 即使知道要见面','tai yu ge q
 music_list.push(['泰仁 - 那男人的谎言','han yu ge qu/na nan ren de huang yan.mp3']);
 
 // 英语歌曲
-music_list.push(['Sarah Connor,Natural - Just One Last Dance','ying yu ge qu/Sarah Connor,Natural - Just One Last Dance.mp3']);
+music_list.push(['DJ Maxwell - It s Ok','ying yu ge qu/DJ Maxwell - It s Ok.mp3']);
+music_list.push(['Sarah Brightman - Scarborough Fair','ying yu ge qu/Sarah Brightman - Scarborough Fair.mp3']);
+music_list.push(['Akia - California','ying yu ge qu/Akia - California.mp3']);
+music_list.push(['曲婉婷 - Jar Of Love','ying yu ge qu/Jar Of Love.mp3']);
+music_list.push(['Maria Arredondo - Burning','ying yu ge qu/Maria Arredondo - Burning.mp3']);
+music_list.push(['Lou Bega - Angelina','ying yu ge qu/Lou Bega - Angelina.mp3']);
+music_list.push(['M2M - The Day You Went Away','ying yu ge qu/M2M - The Day You Went Away.mp3']);
+music_list.push(['Kait Weston - I Just Wanna Run','ying yu ge qu/Kait Weston - I Just Wanna Run.mp3']);
 music_list.push(['Elize - Sexual Healing','ying yu ge qu/Elize - Sexual Healing.mp3']);
 music_list.push(['Dia Frampton - Walk Away','ying yu ge qu/Dia Frampton - Walk Away.mp3']);
 music_list.push(['Nana - Lonely','ying yu ge qu/Nana - Lonely.mp3']);
